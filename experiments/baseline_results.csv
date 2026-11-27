@@ -1,0 +1,93 @@
+example_id,model,question,expected_answer,actual_answer,prompt_tokens,completion_tokens,total_tokens,latency_seconds,api_status,correctness,citation,notes
+EX-01,openai/gpt-oss-120b,When do MCA third-semester theory examinations begin in December 2026?,"8 December 2026, with Advance JAVA for Web and Enterprise Applications, from 9:30 AM to 12:30 PM.","I’m not aware of any publicly released schedule that pins down the exact start date for the MCA (Master of Computer Applications) third‑semester theory exams in December 2026. Exam timetables for postgraduate programs are typically set by each university (or the affiliating university/board) a few months in advance, and they’re posted on the institution’s official website, student portal, or notice board.
+
+**What you can do to find the exact dates:**
+
+| Step | How to proceed |
+|------|-----------------|
+| **1. Check the university’s academic calendar** | Most universities publish an annual academic calendar that lists exam periods, holidays, and result declaration dates. Look for the “December 2026 – Examination Period” entry. |
+| **2. Visit the MCA department’s web page** | Departments often post semester‑wise exam schedules, sometimes as downloadable PDFs (e.g., “MCA III‑Semester Theory Exam Timetable – Dec 2026”). |
+| **3. Log in to the student portal** | If you’re already enrolled, the portal (e.g., myUniversity.edu, StudentInfo, or the ERP system) usually has a “Examination” or “Timetable” section where the latest schedule is posted. |
+| **4. Contact the Examination Office / Registrar** | Send an email or call the office (often listed under “Contact Us”). A short query like “Could you please confirm the start date for MCA III‑semester theory exams in December 2026?” usually gets a prompt reply. |
+| **5. Ask your course coordinator or faculty** | Professors sometimes share the schedule during class or via a WhatsApp/Telegram group. |
+| **6. Keep an eye on official notices** | Universities may circulate PDFs or circulars via email, notice boards, or SMS alerts. Subscribe to any official mailing lists if available. |
+
+**Typical patterns (for context):**
+
+- **Mid‑December start:** Many Indian universities schedule the theory exams for the third semester in the second or third week of December (e.g., Dec 10‑20).  
+- **Duration:** Exams usually run for 7‑10 days, followed by a short grace period before results are announced.  
+- **Holiday considerations:** If the university observes a winter break or a public holiday (e.g., Christmas Dec 25), the exam window may be shifted earlier.
+
+**Example (hypothetical) timeline** (based on past years for reference only):
+
+| Date | Event |
+|------|-------|
+| **Dec 5 – 9** | Publication of the detailed exam timetable (subject‑wise) |
+| **Dec 10 – 19** | Theory examinations for MCA III‑semester |
+| **Dec 20 – 22** | Grace period / make‑up exams (if any) |
+| **Dec 23 – 31** | Result processing and announcement (often early January) |
+
+*Note:* The above is just an illustration; the actual dates for 2026 could differ.
+
+---
+
+### Quick Checklist for You
+
+1. **Visit**: `https://www.[your‑university].edu/academic‑calendar`  
+2. **Log in**: Student portal → “Examinations” → “Timetable”  
+3. **Email**: `exams@[your‑university].edu` (subject: “MCA III‑semester Dec 2026 exam start date”)  
+4. **Ask**: Your course coordinator or senior classmates.  
+
+If you let me know which university you’re enrolled in, I can try to point you to the exact web page or contact details that are most likely to have the schedule. Good luck with your preparations!",86,861,947,2.369,success,abstained,no,Exact date unavailable
+EX-02,openai/gpt-oss-120b,What is the duration of summer training after MCA second semester?,4–6 weeks.,"The length of the summer‑training (or “industrial‑training”) that follows the second semester of a Master of Computer Applications (MCA) program isn’t set by a single national rule – it varies from university to university and sometimes even from department to department. However, most Indian MCA programmes follow one of the three common patterns:
+
+| Typical Model | Approx. Duration | Typical Timing | Remarks |
+|---------------|------------------|----------------|---------|
+| **Standard 2‑month internship** | **8 weeks (≈ 2 months)** | Early‑May → Late June (or early June → late July) | This is the most common format. Students work full‑time (40 h/week) in a company, research lab, or government agency and submit a training‑report + presentation. |
+| **Compact 1‑month internship** | **4 weeks (≈ 1 month)** | Mid‑May → mid‑June (or June → July) | Some universities (especially private ones) compress the training to a single month to fit the academic calendar. Often the workload is intensified (e.g., 50‑60 h/week). |
+| **Extended 3‑month internship** | **12 weeks (≈ 3 months)** | Late April → late July | Less common, but used by institutions that treat the summer stint as a “mini‑project” or “industry‑research” component. May be optional or offered as an “advanced” track. |
+
+### Why the variation?
+1. **University regulations** – Each university’s MCA curriculum committee decides the minimum credit‑hours that must be earned through training.  
+2. **Affiliation with industry partners** – Some colleges have tie‑ups with companies that can only accommodate a 1‑month slot, while others have long‑term projects that span 2–3 months.  
+3. **Academic calendar** – If the semester ends later (e.g., late December) or the next semester starts early (e.g., early July), the training window may be shortened.  
+4. **Student choice** – Certain programs allow you to pick between a “short‑term” (1 month) and a “long‑term” (2 months) internship, with the longer one usually carrying more credits.
+
+### How to find the exact duration for *your* program
+1. **Check the official MCA handbook / prospectus** – Look for the “Summer Training / Internship” section. It will list the required credit points (e.g., 4 credits = 80 hours) and the permissible time window.  
+2. **Visit the department’s website** – Many colleges post a PDF titled “MCA Summer Training Guidelines” that includes dates, required documentation, and evaluation criteria.  
+3. **Ask the training coordinator or placement officer** – They can confirm the exact start‑ and end‑dates for the current academic year and tell you whether any extensions are possible.  
+4. **Read the “Training Agreement” form** – When you sign up with a company, the agreement usually states the start and end dates that satisfy the university’s requirement.
+
+### Typical credit‑hour conversion (for reference)
+
+| Duration | Approx. total hours (full‑time) | Typical credit allocation |
+|----------|--------------------------------|---------------------------|
+| 1 month (4 weeks) | 160 h (40 h × 4) | 2–3 credits |
+| 2 months (8 weeks) | 320 h (40 h × 8) | 4–5 credits |
+| 3 months (12 weeks) | 480 h (40 h × 12) | 6–7 credits |
+
+If your university requires, say, **4 credits**, you’ll most likely need the **2‑month (≈ 320 h)** stint.
+
+### Quick checklist before you start
+
+| ✅ Item | Why it matters |
+|--------|----------------|
+| **Confirm the exact dates** | Guarantees you meet the university deadline and avoid “late‑submission” penalties. |
+| **Get the training‑agreement signed** | Both the college and the host company must approve it. |
+| **Understand the deliverables** (report, presentation, evaluation sheet) | Different institutes grade on different criteria (technical depth, documentation, presentation skills). |
+| **Check if a stipend is offered** | Some companies pay a modest stipend; others may only cover travel/food. |
+| **Know the leave policy** | If you need to take a short break (e.g., for exams), plan it early. |
+
+---
+
+#### Bottom line
+- **Most MCA programs expect a 2‑month (≈ 8 weeks) summer‑training period after the second semester.**  
+- **If you’re at a university that follows a different model, the official handbook or the placement office will have the precise dates.**  
+
+If you let me know the name of your college/university, I can try to locate the exact guideline for that institution. Good luck with your internship!",83,1183,1266,3.141,success,incorrect,no,Generic training duration
+EX-03,openai/gpt-oss-120b,What is the first-installment tuition fee for MCA third-semester morning students for 2026–27?,"INR 29,820.",I’m sorry—I don’t have the specific tuition‑fee amount for MCA third‑semester morning students for the 2026‑27 academic year. The most reliable way to get that information is to consult the university’s official fee schedule (often posted on the institution’s website) or to contact the admissions/registrar office directly. They can provide the exact first‑installment amount and any related details you may need.,93,304,397,5.074,success,abstained,no,Exact tuition fee unavailable
+EX-04,openai/gpt-oss-120b,What is the examination form late fee for submission up to one week after the normal deadline under the 2026–27 fee structure?,"INR 2,850.","I’m sorry, but I don’t have the specific 2026‑27 fee schedule details on hand. The exact amount for a late examination‑form submission (up to one week after the normal deadline) can vary by organization and may be updated periodically.
+
+For the most accurate and up‑to‑date information, I recommend checking the official fee schedule on the organization’s website or contacting their admissions/examinations office directly. They’ll be able to confirm the current late‑fee amount and any other related requirements.",98,327,425,1.477,success,abstained,no,Exact late fee unavailable
+EX-05,openai/gpt-oss-120b,What is the last date to pay MCA third-semester first-installment tuition fees without a late fee in 2026–27?,17 August 2026.,"I’m sorry, but I don’t have that specific information. I recommend checking your university’s official academic calendar or contacting the finance/registrar’s office directly for the most accurate and up‑to‑date deadline.",98,179,277,1.488,success,abstained,no,Exact deadline unavailable
